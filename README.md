@@ -36,7 +36,23 @@ Install dependencies
 
 Start the notebook
 
-
 ```bash
   jupyter notebook
 ```
+
+## Project in action
+
+Here are some screen grabs of the Jupyter notebook
+
+![Screenshot](https://github.com/Moona-rab/Jupyter-USArrests-EDA/blob/main/Images/US_Arrests_1.png)
+</br></br>
+![Screenshot](https://github.com/Moona-rab/Jupyter-USArrests-EDA/blob/main/Images/US_Arrests_2.png)
+</br></br>
+![Screenshot](https://github.com/Moona-rab/Jupyter-USArrests-EDA/blob/main/Images/US_Arrests_3.png)
+</br></br>
+![Screenshot](https://github.com/Moona-rab/Jupyter-USArrests-EDA/blob/main/Images/US_Arrests_4.png)
+</br></br>  
+![Screenshot](https://github.com/Moona-rab/Jupyter-USArrests-EDA/blob/main/Images/US_Arrests_5.png)
+</br></br>  
+![Screenshot](https://github.com/Moona-rab/Jupyter-USArrests-EDA/blob/main/Images/US_Arrests_6.png)
+
